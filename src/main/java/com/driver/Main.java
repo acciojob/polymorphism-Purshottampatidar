@@ -11,7 +11,7 @@ public class Main {
     }
 
 
-   static class  Product{
+   static public class  Product{
         public int product(int x,int y){
             return x*y;
         }
